@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4C0E2DC2-609F-E30E-DBB6-9F24CF51364E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Manager.cs">
+    <Files>
+      <File FileName="Assets/Script/Interface/IState.cs" Line="25" Column="1" />
+      <File FileName="Assets/Script/StateA.cs" Line="32" Column="1" />
+      <File FileName="Assets/Script/StateB.cs" Line="29" Column="1" />
+      <File FileName="Assets/Script/StateC.cs" Line="24" Column="6" />
+      <File FileName="Assets/Script/Context.cs" Line="24" Column="6" />
+      <File FileName="Assets/Script/Manager.cs" Line="39" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test_StateDesipettern" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4f1241f1-887c-4f64-b644-93e8a8d23c79" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

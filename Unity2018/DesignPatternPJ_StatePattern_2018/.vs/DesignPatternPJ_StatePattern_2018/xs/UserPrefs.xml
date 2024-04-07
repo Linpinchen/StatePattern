@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{7BF0903C-185A-A620-B578-F8EDB1AFF29C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/006StatePattern/Scripts/LightStateClass.cs">
+    <Files>
+      <File FileName="Assets/006StatePattern/Scripts/NewLight/Manager.cs" Line="25" Column="37" />
+      <File FileName="Assets/006StatePattern/Scripts/NewLight/LightClass.cs" Line="13" Column="18" />
+      <File FileName="Assets/006StatePattern/Scripts/NewLight/StateControl.cs" Line="22" Column="25" />
+      <File FileName="Assets/006StatePattern/Scripts/NewLight/TrafficState.cs" Line="18" Column="22" />
+      <File FileName="Assets/006StatePattern/Scripts/LightStateClass.cs" Line="111" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPatternPJ_StatePattern_2018" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="006StatePattern" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="NewLight" expanded="True" />
+                  <Node name="LightStateClass.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7e91c0aa-5662-4999-8025-bd056eecd338" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

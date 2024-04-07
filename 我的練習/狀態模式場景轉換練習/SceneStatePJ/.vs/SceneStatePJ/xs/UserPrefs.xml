@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{88E8FFF8-B773-3A2A-A406-D12D1919FE52}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Manager.cs">
+    <Files>
+      <File FileName="Assets/Script/Interface/ISceneState.cs" Line="14" Column="6" />
+      <File FileName="Assets/Script/Manager.cs" Line="106" Column="6" />
+      <File FileName="Assets/Script/StateController.cs" Line="24" Column="13" />
+      <File FileName="Assets/Script/SceneState/StartState.cs" Line="14" Column="1" />
+      <File FileName="Assets/Script/SceneState/MainMenuState.cs" Line="30" Column="1" />
+      <File FileName="Assets/Script/SceneState/BattleState.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SceneStatePJ" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fd51dca9-2b3b-4f32-bdd0-36f2438039e4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
